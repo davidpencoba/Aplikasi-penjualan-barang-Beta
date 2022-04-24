@@ -12,7 +12,7 @@
               <!-- sidebar menu start-->
               <ul class="sidebar-menu" id="nav-accordion">
               
-              	  <p class="centered"><a><img src="assets/img/user/<?php echo $hasil_profil['gambar'];?>" class="img-circle" width="100" height="110"></a></p>
+              	  <p class="centered"><a><img src="assets/img/user/<?php echo $hasil_profil['gambar'];?>" class="img-circle" width="101" height="110"></a></p>
               	  <h5 class="centered"><?php echo $hasil_profil['nm_member'];?></h5>
               	  <h5 class="centered">( <?php echo $hasil_profil['NIK'];?> )</h5>
               	  	
