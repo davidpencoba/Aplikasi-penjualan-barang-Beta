@@ -49,7 +49,7 @@
     <![endif]-->
   </head>
 
-  <body style="background-image :url(assets/img/pic/index.jpg);
+  <body style="background-image :url(assets/img/pic/index1.jpg);
   			background-repeat: no-repeat;
             color:#fff;">
 

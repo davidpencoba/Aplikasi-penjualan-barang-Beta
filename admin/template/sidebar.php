@@ -19,7 +19,7 @@
                   <li class="mt">
                       <a href="index.php">
                           <i class="fa fa-dashboard"></i>
-                          <span>Dashboard</span>
+                          <span>Halaman utama</span>
                       </a>
                   </li>
 
@@ -32,8 +32,7 @@
                       <ul class="sub">
                           <li><a  href="index.php?page=pelanggan">Pembeli</a></li>
 
-                          <li><a  href="index.php?page=barang
-                            ">Barang</a></li>
+                          <li><a  href="index.php?page=barang">Barang</a></li>
 
                           <li><a  href="index.php?page=kategori">Kategori</a></li>
                           <li><a  href="index.php?page=user">Petugas</a></li>
